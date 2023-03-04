@@ -1,0 +1,11 @@
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\bin\Debug\NCKH.exe.config
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\bin\Debug\NCKH.exe
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\bin\Debug\NCKH.pdb
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\obj\Debug\NCKH.csproj.AssemblyReference.cache
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\obj\Debug\NCKH.csproj.SuggestedBindingRedirects.cache
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\obj\Debug\NCKH.Form1.resources
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\obj\Debug\NCKH.Properties.Resources.resources
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\obj\Debug\NCKH.csproj.GenerateResource.cache
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\obj\Debug\NCKH.csproj.CoreCompileInputs.cache
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\obj\Debug\NCKH.exe
+C:\Users\manha\Documents\GitHub\NCKH\NCKH\obj\Debug\NCKH.pdb
